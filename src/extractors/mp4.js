@@ -1,6 +1,7 @@
 import {lazystream} from '../util.js';
 
 const MIME_TYPES = {
+    ['667479706d703432']: 'video/mp4',
     ['667479704d345620']: 'video/x-m4v',
     ['6674797071742020']: 'video/quicktime',
 };
